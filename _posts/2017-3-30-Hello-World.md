@@ -9,7 +9,7 @@ title: GitHub Blog Setting
 
 [참고 사이트](http://thdev.net/653)를 보고 GitHub 블로그를 설정했습니다.
 
-    * barryclark/jekyll-now 포크해서 간단하게 구성
+* barryclark/jekyll-now 포크해서 간단하게 구성
 
 ### RealmQnA 토이 프로젝트
 
@@ -63,3 +63,7 @@ Realm.Sync.User.login(SERVER_URL, user, password, (error, user) => {
 ```
 
 오랜만에 노드를 보니 하나도 모르겠고 재밌습니다.
+
+## TO-DO
+
+[편리한 깃헙페이지 블로깅을 위한 이미지서버, 구글드라이브: 업로드 ShellScript편](https://beomi.github.io/2017/03/27/Use-GoogleDrive-as-Image-Server/) 보면서 예정!
