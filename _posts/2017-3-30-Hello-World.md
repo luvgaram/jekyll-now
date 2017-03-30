@@ -5,22 +5,22 @@ title: GitHub Blog Setting
 
 ## Today I Learned
 
-* 블로그
+### 블로그
 
 [참고 사이트](http://thdev.net/653)를 보고 GitHub 블로그를 설정했습니다.
 
     * barryclark/jekyll-now 포크해서 간단하게 구성
 
-* RealmQnA 토이 프로젝트
+### RealmQnA 토이 프로젝트
 
 Realm 모바일 플랫폼 + Node.js로 간단한 읽기와 세션 기반 사용자 식별이 되는 웹서버를 구축했습니다.
 
-    * realm: 모바일 데이터베이스 + 오브젝트 서버 = 실시간 동기화
-    * express
-    * body-parser
-    * express-session: 세션
-    * express-handlebars: 시맨틱 탬플릿
-    * nodemon: 자동 서버 재시작
+* realm: 모바일 데이터베이스 + 오브젝트 서버 = 실시간 동기화
+* express
+* body-parser
+* express-session: 세션
+* express-handlebars: 시맨틱 탬플릿
+* nodemon: 자동 서버 재시작
     
 express-handlebars에 동등 비교 로직은 [StackOverflow #1](http://stackoverflow.com/questions/8853396/logical-operator-in-a-handlebars-js-if-conditional),  helper 넣기는 [StackOverflow #2](http://stackoverflow.com/a/39297850) 참고.
 ```javascript
