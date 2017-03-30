@@ -62,8 +62,12 @@ Realm.Sync.User.login(SERVER_URL, user, password, (error, user) => {
 
 ```
 
-오랜만에 노드를 보니 하나도 모르겠고 재밌습니다.
+## 회고
+
+오랜만에 노드를 보니 하나도 모르겠고 재밌습니다. github edit 기능은 한글을 전혀 배려 안하는군요. 에디터야, 괴롭혀서 미안 :(
 
 ## TO-DO
 
-[편리한 깃헙페이지 블로깅을 위한 이미지서버, 구글드라이브: 업로드 ShellScript편](https://beomi.github.io/2017/03/27/Use-GoogleDrive-as-Image-Server/) 보면서 예정!
+* [편리한 깃헙페이지 블로깅을 위한 이미지서버, 구글드라이브: 업로드 ShellScript편](https://beomi.github.io/2017/03/27/Use-GoogleDrive-as-Image-Server/) 따라해볼 예정!
+* vote 기능을 넣으려면 RealmQnA 스키마를 고쳐야할듯
+* 세션으로 사용자를 판가름해서 vote와 edit 기능 추가. 그런데 handlebars가 이런 로직에 적합한지 고민이 됩니다. if문도 없어서 당황... 다른 템플릿을 찾아 봐야?
