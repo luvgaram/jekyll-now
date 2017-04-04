@@ -3,6 +3,8 @@ layout: post
 title: Realm JavaScript, RMP Node.js Server - delete
 ---
 
+### RMP Node.js Server - update & delete
+
 * question 데이터의 update와 delete를 구현했습니다.
 * delete는 실제 데이터를 직접 지우지 않고 status를 false로 업데이트했습니다.
 * form 몇년만인가!
