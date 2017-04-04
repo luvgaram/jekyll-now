@@ -3,8 +3,6 @@ layout: post
 title: GitHub Blog Setting
 ---
 
-## Today I Learned
-
 ### 블로그
 
 [참고 사이트](http://thdev.net/653)를 보고 GitHub 블로그를 설정했습니다.
