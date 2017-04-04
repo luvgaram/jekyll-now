@@ -1,4 +1,4 @@
-### TIL
+### Clean Architecture in Android
 
 Droid Knights의 두 번째 세션 `Clean Architecture in Android` 영상 정리글을 작성했습니다. [Realm 공식홈페이지](https://realm.io/kr/news)에 발행될 예정입니다.
 
