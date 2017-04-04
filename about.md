@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+최신 기술에 관심이 많은 모바일 개발자
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+[Realm Korea](https://realm.io/kr)에서 [기술 컨텐츠](https://realm.io/kr/news)를 담당하고 있습니다.
+
+최신 모바일 기술 뉴스와 튜토리얼을 보러 오세요!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[eunjoo.im@realm.io](mailto:eunjoo.im@realm.io)
