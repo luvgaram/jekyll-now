@@ -23,9 +23,9 @@ let QuestionSchema = {
 
 ```
 
-Realm QnA 서버에서 사용하는 Schema 변경, User 추가
-User가 있으면 사용하고 아니면 만들기 위해 predicate를 만들다가 삽질을 했습니다. 결론은 따옴표가 필요하다!
-필터링을 위한 predicate 예제
+* Realm QnA 서버에서 사용하는 Schema 변경, User 추가
+* User가 있으면 사용하고 아니면 만들기 위해 predicate를 만들다가 삽질을 했습니다. 결론은 따옴표가 필요하다!
+* 필터링을 위한 predicate 예제
 
 ```javascript
 
