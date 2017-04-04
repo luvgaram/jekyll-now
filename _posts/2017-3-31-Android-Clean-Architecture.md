@@ -5,7 +5,7 @@ title: Mobile tech news translation
 
 ### Clean Architecture in Android
 
-Droid Knights의 두 번째 세션 `Clean Architecture in Android` 영상 정리글을 작성했습니다. [Realm 공식홈페이지](https://realm.io/kr/news)에 발행될 예정입니다.
+Droid Knights의 두 번째 세션 `Clean Architecture in Android` 영상 정리글을 작성했습니다. [Realm 공식홈페이지](https://realm.io/kr/news/clean-architecture-in-android/)에 발행됐습니다.
 
 * 뱅크샐러드 제작사 레이니스트 CTO 황성현님 발표
 * 변화에 잘 적응하려면 구조가 간결하게 분리돼야 한다가 핵심
